@@ -21,10 +21,10 @@ global.prems = []
 
 global.packname = '© 𝙶𝙾𝙺𝚄𝙱𝙾𝚃'
 global.author = 'Created By Jostin'
-global.wm = '© GokuBot-MD'
-global.wm2 = '𝗚oku : 𝗕𝗈𝗍'
+global.wm = 'Ⓐ AkiraBot-MD'
+global.wm2 = 'Akira : Bot : MD'
 global.azami = 'Jostin'
-global.cb = 'GokuBot-MD'
+global.cb = 'AkiraBot-MD'
 
 global.vs = 'V2 • 1.0.5'
 global.library = 'Baileys'
